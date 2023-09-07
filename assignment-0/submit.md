@@ -2,6 +2,7 @@
 `seminar-2023-andoid-assignment` 레포를 clone한 후, 이 파일의 아래 부분을 수정해서 PR로 올려 주세요.
 
 ## 1. 설치 스크린샷
+![KakaoTalk_20230906_022754405](https://github.com/wafflestudio/seminar-2023-android-assignment/assets/133320772/e2992c21-fe8e-4a1c-8d3d-4046e102969d)
 
 깃허브 에디터에 스크린샷 이미지를 드래그 드롭 하면 이미지를 첨부할 수 있습니다. 여기에 넣어 주세요!
 
